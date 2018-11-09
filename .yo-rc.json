@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "pruebaJHOnline",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NmU4NTViMDE5NzEzNjFmOWI4MDIzYTc3MjFmN2NkMDNiOThiNTNkNTY0M2MxZjFkZDA1YzJmYzk0NTU3MGM0ZGRjMzdkNzcxNmMyZDhmNjY3YzNlMjQwZWRhNjdmM2ViYzE4ZTIyZmFiYzQ3N2I1ODc1NzYzN2Q0MDcxNzg2OTA="
+  },
+  "git-provider": "GitHub",
+  "git-company": "UPCN-Nestor",
+  "repository-name": "pruebaJHOnline"
+}
